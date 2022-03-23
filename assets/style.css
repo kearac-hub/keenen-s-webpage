@@ -1,0 +1,37 @@
+* {
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+.center {
+    text-align: center;
+}
+.navul {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+.topbar {
+    position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+}
+h2 {
+    text-align: center;
+}
+.whoiam {
+    display: flex;
+    justify-content: space-evenly;
+}
+.whoiamp {
+    width: 30%;
+}
+.familyportrait {
+    width: 30%;
+}
+.steve {
+    display: flex;
+}
+footer {
+    text-align: center;
+}
